@@ -1,0 +1,28 @@
+title: "Summer Training Blog"
+description: "A minimal and clean blog for training day updates."
+baseurl: ""
+url: "https://yourusername.github.io"
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-include-cache
+paginate: 5
+paginate_path: "/page:num/"
+markdown: kramdown
+highlighter: rouge
+author:
+  name: "Satjeet Singh"
+  avatar: "/assets/images/avatar.png"
+  bio: "Passionate about learning tech and sharing knowledge!"
+  location: "India"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/yourusername"
+    - label: "Twitter"
+      icon: "fab fa-twitter"
+      url: "https://twitter.com/yourusername"
+minimal_mistakes_skin: "default"
