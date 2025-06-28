@@ -2,6 +2,7 @@ title: "Summer Training Blog"
 description: "A minimal and clean blog for training day updates."
 baseurl: ""
 url: "https://yourusername.github.io"
+repository: Satjeet2005/Blog
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 plugins:
   - jekyll-feed
