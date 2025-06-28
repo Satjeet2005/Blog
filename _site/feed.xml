@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-28T16:21:53+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Summer Training Blog</title><subtitle>A minimal and clean blog for training day updates.</subtitle><author><name>Satjeet Singh</name></author><entry><title type="html">Day 5 of Summer Training</title><link href="http://localhost:4000/2025/06/27/day-5.html" rel="alternate" type="text/html" title="Day 5 of Summer Training" /><published>2025-06-27T00:00:00+05:30</published><updated>2025-06-27T00:00:00+05:30</updated><id>http://localhost:4000/2025/06/27/day-5</id><content type="html" xml:base="http://localhost:4000/2025/06/27/day-5.html"><![CDATA[<h1 id="day-5-of-summer-training-">Day 5 of Summer Training 🚀</h1>
+
+<p>Welcome to <strong>Day 5</strong> of our summer training program! Today’s session was all about refining our front-end development skills and understanding how the browser renders elements.</p>
+
+<hr />
+
+<h2 id="-what-i-learned-today">🔖 What I Learned Today</h2>
+
+<ul>
+  <li>Today I learned about open source contribution how pull requests work, what is the roadmap in order to contribute to the community, how talking with the maintainers is important before even start to code talking is the first and foremost step.</li>
+  <li>Then I started the other project which is dictionary web app which also gives meaning, synonyms, pronunciation with a user-friendly theme.</li>
+</ul>
+
+<hr />
+
+<h2 id="-what-project-i-worked-on">📁 What Project I Worked On</h2>
+
+<p>Today I worked on dictionary web app nav bar today I mainly worked on the theme change section and with an icon. I made a scroll button with help of div and completely designed the HTML, CSS, JavaScript.</p>
+
+<p>Examples:</p>
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;header&gt;</span>
+      <span class="nt">&lt;nav&gt;</span>
+        <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"flex align-items gap-15"</span><span class="nt">&gt;</span>
+          <span class="nt">&lt;div</span>
+            <span class="na">class=</span><span class="s">"scroll-btn flex align-center p-3 box-border clickable relative"</span>
+          <span class="nt">&gt;</span>
+            <span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"scroll-ball absolute"</span><span class="nt">&gt;&lt;/div&gt;</span>
+          <span class="nt">&lt;/div&gt;</span>
+          <span class="nt">&lt;img</span> <span class="na">src=</span><span class="s">"/assets/icon-moon.svg"</span> <span class="na">alt=</span><span class="s">"moon"</span> <span class="nt">/&gt;</span>
+        <span class="nt">&lt;/div&gt;</span>
+      <span class="nt">&lt;/nav&gt;</span>
+    <span class="nt">&lt;/header&gt;</span>
+</code></pre></div></div>
+
+<h2 id="-whom-i-am-thankful-to">🙏 Whom I am Thankful To:</h2>
+
+<p>I am thankful to my mentor because of his guidance due to him, I am able to learn about all the topics like Git &amp; GitHub, semantic HTML. A special thanks that I haven’t mentioned yet is to the website Frontend mentor because of that website I am able to practice my skills.</p>
+
+<hr />
+
+<h2 id="-what-challenges-i-faced">🚀 What Challenges I Faced</h2>
+
+<p>I honestly haven’t faced any difficult challenges today, everything was quite smooth.</p>]]></content><author><name>Satjeet Singh</name></author><category term="HTML" /><category term="CSS" /><category term="Web Development" /><summary type="html"><![CDATA[Day 5 of Summer Training 🚀]]></summary></entry><entry><title type="html">Day 4 - Summer Training</title><link href="http://localhost:4000/training/2025/06/04/day-4.html" rel="alternate" type="text/html" title="Day 4 - Summer Training" /><published>2025-06-04T00:00:00+05:30</published><updated>2025-06-04T00:00:00+05:30</updated><id>http://localhost:4000/training/2025/06/04/day-4</id><content type="html" xml:base="http://localhost:4000/training/2025/06/04/day-4.html"><![CDATA[<p>Today I learned about progress bars and how to simulate them using HTML &amp; CSS. Here’s a quick summary and what I built.</p>]]></content><author><name>Satjeet Singh</name></author><category term="training" /><category term="html" /><category term="css" /><category term="blog" /><summary type="html"><![CDATA[Today I learned about progress bars and how to simulate them using HTML &amp; CSS. Here’s a quick summary and what I built.]]></summary></entry><entry><title type="html">Day 3 - Summer Training</title><link href="http://localhost:4000/training/2025/06/03/day-3.html" rel="alternate" type="text/html" title="Day 3 - Summer Training" /><published>2025-06-03T00:00:00+05:30</published><updated>2025-06-03T00:00:00+05:30</updated><id>http://localhost:4000/training/2025/06/03/day-3</id><content type="html" xml:base="http://localhost:4000/training/2025/06/03/day-3.html"><![CDATA[<p>Today I learned about progress bars and how to simulate them using HTML &amp; CSS. Here’s a quick summary and what I built.</p>]]></content><author><name>Satjeet Singh</name></author><category term="training" /><category term="html" /><category term="css" /><category term="blog" /><summary type="html"><![CDATA[Today I learned about progress bars and how to simulate them using HTML &amp; CSS. Here’s a quick summary and what I built.]]></summary></entry><entry><title type="html">Day 2 - Summer Training</title><link href="http://localhost:4000/training/2025/06/02/day-2.html" rel="alternate" type="text/html" title="Day 2 - Summer Training" /><published>2025-06-02T00:00:00+05:30</published><updated>2025-06-02T00:00:00+05:30</updated><id>http://localhost:4000/training/2025/06/02/day-2</id><content type="html" xml:base="http://localhost:4000/training/2025/06/02/day-2.html"><![CDATA[<p>Today I learned about progress bars and how to simulate them using HTML &amp; CSS. Here’s a quick summary and what I built.</p>]]></content><author><name>Satjeet Singh</name></author><category term="training" /><category term="html" /><category term="css" /><category term="blog" /><summary type="html"><![CDATA[Today I learned about progress bars and how to simulate them using HTML &amp; CSS. Here’s a quick summary and what I built.]]></summary></entry><entry><title type="html">Day 1 - Summer Training</title><link href="http://localhost:4000/training/2025/06/01/day-1.html" rel="alternate" type="text/html" title="Day 1 - Summer Training" /><published>2025-06-01T00:00:00+05:30</published><updated>2025-06-01T00:00:00+05:30</updated><id>http://localhost:4000/training/2025/06/01/day-1</id><content type="html" xml:base="http://localhost:4000/training/2025/06/01/day-1.html"><![CDATA[<p>Today I learned about progress bars and how to simulate them using HTML &amp; CSS. Here’s a quick summary and what I built.</p>]]></content><author><name>Satjeet Singh</name></author><category term="training" /><category term="html" /><category term="css" /><category term="blog" /><summary type="html"><![CDATA[Today I learned about progress bars and how to simulate them using HTML &amp; CSS. Here’s a quick summary and what I built.]]></summary></entry></feed>
