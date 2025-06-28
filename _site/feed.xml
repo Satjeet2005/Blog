@@ -1,4 +1,75 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-28T16:21:53+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Summer Training Blog</title><subtitle>A minimal and clean blog for training day updates.</subtitle><author><name>Satjeet Singh</name></author><entry><title type="html">Day 5 of Summer Training</title><link href="http://localhost:4000/2025/06/27/day-5.html" rel="alternate" type="text/html" title="Day 5 of Summer Training" /><published>2025-06-27T00:00:00+05:30</published><updated>2025-06-27T00:00:00+05:30</updated><id>http://localhost:4000/2025/06/27/day-5</id><content type="html" xml:base="http://localhost:4000/2025/06/27/day-5.html"><![CDATA[<h1 id="day-5-of-summer-training-">Day 5 of Summer Training 🚀</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-28T20:52:15+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Summer Training Blog</title><subtitle>A minimal and clean blog for training day updates.</subtitle><author><name>Satjeet Singh</name></author><entry><title type="html">Day 6 of Summer Training</title><link href="http://localhost:4000/2025/06/28/day-6.html" rel="alternate" type="text/html" title="Day 6 of Summer Training" /><published>2025-06-28T00:00:00+05:30</published><updated>2025-06-28T00:00:00+05:30</updated><id>http://localhost:4000/2025/06/28/day-6</id><content type="html" xml:base="http://localhost:4000/2025/06/28/day-6.html"><![CDATA[<h1 id="️-day-6-of-summer-training">🗓️ Day 6 Of Summer Training</h1>
+
+<p>Today was the 6th day of my summer training…..</p>
+
+<h2 id="-what-i-learned-today">💡 What I Learned Today</h2>
+<ul>
+  <li>Today I learned how to set up a theme with jekyll and push it to github pages. It was a process full of errors. I spend a large chunk of time in solving the errors and finally set up the jekyll on github.</li>
+  <li>The second thing I learned about is to change the font of website according to user needs.</li>
+</ul>
+
+<h2 id="-what-project-i-worked-on">📝 What Project I Worked On:</h2>
+<p>Today I again worked on the project which I started yesterday, today I worked on the font handling of the website means that I have provided the user with three options to set the font of the website. Website can be seen in three fonts:</p>
+<ul>
+  <li>Sans</li>
+  <li>Sans-Serif</li>
+  <li>Mono</li>
+</ul>
+
+<div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;div</span> <span class="na">class=</span><span class="s">"font-handling-container relative"</span><span class="nt">&gt;</span>
+                <span class="nt">&lt;div</span>
+                  <span class="na">class=</span><span class="s">"selected-font-container flex align-center box-content gap-18 clickable"</span>
+                <span class="nt">&gt;</span>
+                  <span class="nt">&lt;p</span> <span class="na">class=</span><span class="s">"selected-font font"</span><span class="nt">&gt;</span>Mono<span class="nt">&lt;/p&gt;</span>
+                  <span class="nt">&lt;svg</span>
+                    <span class="na">xmlns=</span><span class="s">"http://www.w3.org/2000/svg"</span>
+                    <span class="na">width=</span><span class="s">"14"</span>
+                    <span class="na">height=</span><span class="s">"8"</span>
+                    <span class="na">viewBox=</span><span class="s">"0 0 14 8"</span>
+                  <span class="nt">&gt;</span>
+                    <span class="nt">&lt;path</span>
+                      <span class="na">fill=</span><span class="s">"none"</span>
+                      <span class="na">stroke=</span><span class="s">"#A445ED"</span>
+                      <span class="na">stroke-width=</span><span class="s">"1.5"</span>
+                      <span class="na">d=</span><span class="s">"m1 1 6 6 6-6"</span>
+                    <span class="nt">/&gt;</span>
+                  <span class="nt">&lt;/svg&gt;</span>
+                <span class="nt">&lt;/div&gt;</span>
+      
+                <span class="nt">&lt;div</span>
+                  <span class="na">class=</span><span class="s">"font-selection-container flex flex-col gap-15 box-border absolute hidden"</span>
+                <span class="nt">&gt;</span>
+                  <span class="nt">&lt;p</span>
+                    <span class="na">class=</span><span class="s">"font margin-0 font-option clickable sans-serif font--sans-serif"</span>
+                    <span class="na">data-font=</span><span class="s">"sans-serif"</span>
+                  <span class="nt">&gt;</span>
+                    Sans Serif
+                  <span class="nt">&lt;/p&gt;</span>
+                  <span class="nt">&lt;p</span>
+                    <span class="na">class=</span><span class="s">"font margin-0 font-option clickable serif font--serif"</span>
+                    <span class="na">data-font=</span><span class="s">"serif"</span>
+                  <span class="nt">&gt;</span>
+                    Serif
+                  <span class="nt">&lt;/p&gt;</span>
+                  <span class="nt">&lt;p</span>
+                    <span class="na">class=</span><span class="s">"font margin-0 font-option clickable mono font--mono"</span>
+                    <span class="na">data-font=</span><span class="s">"mono"</span>
+                  <span class="nt">&gt;</span>
+                    Mono
+                  <span class="nt">&lt;/p&gt;</span>
+                <span class="nt">&lt;/div&gt;</span>
+              <span class="nt">&lt;/div&gt;</span>
+</code></pre></div></div>
+
+<h2 id="-what-challenges-i-faced">🎯 What Challenges I Faced:</h2>
+<p>The thing which caused me headache was setting up this blog with jekyll and github page. I almost spend 2-3 hours just jumping between errors and their solutions. But finally this thing is working. Sometime ruby build was failing and on the other time site test check was failing. Because of that I was not able to even send the blog to my mentor but now set up is done, I send him both the blogs.</p>
+
+<h2 id="-whom-i-am-thankful-to">🙏🏻 Whom I am Thankful To:</h2>
+<p>It is quite difficult to think the content for this section because you can go in a wide range for this like we can even consider the code editor in my case vscode, thanking the developers for developing the software.I don’t know how you think about this.
+This section help to think in a more like crazy way for gratitude.</p>
+
+<h2 id="-reflection-and-my-feelings">💭 Reflection and My feelings:</h2>
+<p>This training is no doubt adding value to my knowledge, but it is also helping me get to track again which I was not able to do because of some reason. It’s like in the morning there is new energy &amp; vibe to learn new things and give my best. So folks do the hard work and rest is the destiny.</p>]]></content><author><name>Satjeet Singh</name></author><category term="HTML" /><category term="CSS" /><category term="Web Development" /><category term="JavaScript" /><summary type="html"><![CDATA[🗓️ Day 6 Of Summer Training]]></summary></entry><entry><title type="html">Day 5 of Summer Training</title><link href="http://localhost:4000/2025/06/27/day-5.html" rel="alternate" type="text/html" title="Day 5 of Summer Training" /><published>2025-06-27T00:00:00+05:30</published><updated>2025-06-27T00:00:00+05:30</updated><id>http://localhost:4000/2025/06/27/day-5</id><content type="html" xml:base="http://localhost:4000/2025/06/27/day-5.html"><![CDATA[<h1 id="day-5-of-summer-training-">Day 5 of Summer Training 🚀</h1>
 
 <p>Welcome to <strong>Day 5</strong> of our summer training program! Today’s session was all about refining our front-end development skills and understanding how the browser renders elements.</p>
 
@@ -15,7 +86,8 @@
 
 <h2 id="-what-project-i-worked-on">📁 What Project I Worked On</h2>
 
-<p>Today I worked on dictionary web app nav bar today I mainly worked on the theme change section and with an icon. I made a scroll button with help of div and completely designed the HTML, CSS, JavaScript.</p>
+<p>Today I worked on dictionary web app nav bar today I mainly worked on the theme change section which consists two things one is the toggle button and other is a moon icon. I analyzed the hover state and how the icon or button behaves on click event, then I started with HTML
+in which to stimulate a toggle button, I used two divs. If we click on the toggle button or icon it will toggle the theme and I also tried to implement the feature that examines the user preferred theme(light/dark) and use that theme on the website.</p>
 
 <p>Examples:</p>
 <div class="language-html highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nt">&lt;header&gt;</span>
@@ -34,10 +106,14 @@
 
 <h2 id="-whom-i-am-thankful-to">🙏 Whom I am Thankful To:</h2>
 
-<p>I am thankful to my mentor because of his guidance due to him, I am able to learn about all the topics like Git &amp; GitHub, semantic HTML. A special thanks that I haven’t mentioned yet is to the website Frontend mentor because of that website I am able to practice my skills.</p>
+<p>I am thankful to my mentor because of his guidance, I am able to learn about all the topics like Git &amp; GitHub, semantic HTML, clean code practices and many other things. A special thanks that I haven’t mentioned yet is to the website Frontend mentor because of that website I am able to practice my skills. This website consists of numerous practice projects ranging from easy to advanced level. If you haven’t checked that website yet consider visiting it.</p>
 
 <hr />
 
 <h2 id="-what-challenges-i-faced">🚀 What Challenges I Faced</h2>
 
-<p>I honestly haven’t faced any difficult challenges today, everything was quite smooth.</p>]]></content><author><name>Satjeet Singh</name></author><category term="HTML" /><category term="CSS" /><category term="Web Development" /><summary type="html"><![CDATA[Day 5 of Summer Training 🚀]]></summary></entry><entry><title type="html">Day 4 - Summer Training</title><link href="http://localhost:4000/training/2025/06/04/day-4.html" rel="alternate" type="text/html" title="Day 4 - Summer Training" /><published>2025-06-04T00:00:00+05:30</published><updated>2025-06-04T00:00:00+05:30</updated><id>http://localhost:4000/training/2025/06/04/day-4</id><content type="html" xml:base="http://localhost:4000/training/2025/06/04/day-4.html"><![CDATA[<p>Today I learned about progress bars and how to simulate them using HTML &amp; CSS. Here’s a quick summary and what I built.</p>]]></content><author><name>Satjeet Singh</name></author><category term="training" /><category term="html" /><category term="css" /><category term="blog" /><summary type="html"><![CDATA[Today I learned about progress bars and how to simulate them using HTML &amp; CSS. Here’s a quick summary and what I built.]]></summary></entry><entry><title type="html">Day 3 - Summer Training</title><link href="http://localhost:4000/training/2025/06/03/day-3.html" rel="alternate" type="text/html" title="Day 3 - Summer Training" /><published>2025-06-03T00:00:00+05:30</published><updated>2025-06-03T00:00:00+05:30</updated><id>http://localhost:4000/training/2025/06/03/day-3</id><content type="html" xml:base="http://localhost:4000/training/2025/06/03/day-3.html"><![CDATA[<p>Today I learned about progress bars and how to simulate them using HTML &amp; CSS. Here’s a quick summary and what I built.</p>]]></content><author><name>Satjeet Singh</name></author><category term="training" /><category term="html" /><category term="css" /><category term="blog" /><summary type="html"><![CDATA[Today I learned about progress bars and how to simulate them using HTML &amp; CSS. Here’s a quick summary and what I built.]]></summary></entry><entry><title type="html">Day 2 - Summer Training</title><link href="http://localhost:4000/training/2025/06/02/day-2.html" rel="alternate" type="text/html" title="Day 2 - Summer Training" /><published>2025-06-02T00:00:00+05:30</published><updated>2025-06-02T00:00:00+05:30</updated><id>http://localhost:4000/training/2025/06/02/day-2</id><content type="html" xml:base="http://localhost:4000/training/2025/06/02/day-2.html"><![CDATA[<p>Today I learned about progress bars and how to simulate them using HTML &amp; CSS. Here’s a quick summary and what I built.</p>]]></content><author><name>Satjeet Singh</name></author><category term="training" /><category term="html" /><category term="css" /><category term="blog" /><summary type="html"><![CDATA[Today I learned about progress bars and how to simulate them using HTML &amp; CSS. Here’s a quick summary and what I built.]]></summary></entry><entry><title type="html">Day 1 - Summer Training</title><link href="http://localhost:4000/training/2025/06/01/day-1.html" rel="alternate" type="text/html" title="Day 1 - Summer Training" /><published>2025-06-01T00:00:00+05:30</published><updated>2025-06-01T00:00:00+05:30</updated><id>http://localhost:4000/training/2025/06/01/day-1</id><content type="html" xml:base="http://localhost:4000/training/2025/06/01/day-1.html"><![CDATA[<p>Today I learned about progress bars and how to simulate them using HTML &amp; CSS. Here’s a quick summary and what I built.</p>]]></content><author><name>Satjeet Singh</name></author><category term="training" /><category term="html" /><category term="css" /><category term="blog" /><summary type="html"><![CDATA[Today I learned about progress bars and how to simulate them using HTML &amp; CSS. Here’s a quick summary and what I built.]]></summary></entry></feed>
+<p>I honestly haven’t faced any difficulties and challenges today, everything was quite smooth.</p>
+
+<h2 id="-reflections-and-my-feelings">💭 Reflections and My Feelings</h2>
+
+<p>Today the schedule was quite hectic, it was difficult to manage training with it, but I managed to work for eight hours and why shouldn’t I because priorities matter. The things having the highest priority must to done at any cost.</p>]]></content><author><name>Satjeet Singh</name></author><category term="HTML" /><category term="CSS" /><category term="Web Development" /><summary type="html"><![CDATA[Day 5 of Summer Training 🚀]]></summary></entry></feed>
