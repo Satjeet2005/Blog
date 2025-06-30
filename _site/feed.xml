@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-28T20:52:15+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Summer Training Blog</title><subtitle>A minimal and clean blog for training day updates.</subtitle><author><name>Satjeet Singh</name></author><entry><title type="html">Day 6 of Summer Training</title><link href="http://localhost:4000/2025/06/28/day-6.html" rel="alternate" type="text/html" title="Day 6 of Summer Training" /><published>2025-06-28T00:00:00+05:30</published><updated>2025-06-28T00:00:00+05:30</updated><id>http://localhost:4000/2025/06/28/day-6</id><content type="html" xml:base="http://localhost:4000/2025/06/28/day-6.html"><![CDATA[<h1 id="️-day-6-of-summer-training">🗓️ Day 6 Of Summer Training</h1>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.10.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-06-30T21:36:40+05:30</updated><id>http://localhost:4000/feed.xml</id><title type="html">Summer Training Blog</title><subtitle>A minimal and clean blog for training day updates.</subtitle><author><name>Satjeet Singh</name></author><entry><title type="html">Day 7 of Summer Training</title><link href="http://localhost:4000/2025/06/30/day-7.html" rel="alternate" type="text/html" title="Day 7 of Summer Training" /><published>2025-06-30T00:00:00+05:30</published><updated>2025-06-30T00:00:00+05:30</updated><id>http://localhost:4000/2025/06/30/day-7</id><content type="html" xml:base="http://localhost:4000/2025/06/30/day-7.html"><![CDATA[<h1 id="️-day-7-of-summer-training">🗓️ Day 7 Of Summer Training</h1>
+
+<p>Today was the 7th day of my summer training………</p>
+
+<h2 id="-what-i-learned-today">💡 What I Learned Today</h2>
+<ul>
+  <li>Today I learned about async await although, I know about it earlier but today I revised it again thorough my project.</li>
+  <li>Today I learned to play audio by a click on a svg image like we do in google to listen the pronunciation of a word.</li>
+  <li>I also learned to work with dictionary API, how to get data, how to retrieve desired data, how to handle errors.</li>
+  <li>I also tried to use clean code practices in project.</li>
+  <li>Also as I know git &amp; github now and my also using that in my project.</li>
+</ul>
+
+<h2 id="️-what-project-i-worked-on">🗂️ What Project I Worked On:</h2>
+<p>Today I worked on the project, I was doing earlier. I mainly worked with API today. The task was to fetch the data and retrieve desired data from it. There were various things to do like to get the mp3 audio of the pronunciation of the word, word’s meaning when used as noun, verb and adjective. It was so tedious to work with this API to get the phonetic of a word or to get the meaning I have to write a lot of code because the data which, I was getting was so unstrutured. I have to take care of lot of things. Also I added a thing which was not in the project was to show a message if there is no audio pronunciation available for a word.</p>
+
+<p><img src="/assets/images/Screenshot%20from%202025-06-30%2020-44-43.png" alt="feature" /></p>
+
+<h2 id="-what-challenges-i-faced">💪 What Challenges I Faced:</h2>
+<p>The main challenge was to know to target which data or element inside the json object which I was getting. So literally opened different tabs in browser and I analysed the object which I was getting from 5-6 different words then I got to know which data or element to target. Everything else was good.</p>
+
+<h2 id="️--reflection-and-my-feelings">✉️  Reflection and My Feelings:</h2>
+<p>I have successfully completed my first week of training it was a very good experience. I also sent the weekly clocify (a time tracker) report to my mentor. With god’s grace I am actually enjoying this training journey. There was a little hiccup on saturday, I don’t know how accidently the time tracker was kept on for the entire night it calculated around 35 hours, so I have to edit the time spend then I sent the report to my mentor.</p>]]></content><author><name>Satjeet Singh</name></author><category term="HTML" /><category term="CSS" /><category term="Web Development" /><summary type="html"><![CDATA[🗓️ Day 7 Of Summer Training]]></summary></entry><entry><title type="html">Day 6 of Summer Training</title><link href="http://localhost:4000/2025/06/28/day-6.html" rel="alternate" type="text/html" title="Day 6 of Summer Training" /><published>2025-06-28T00:00:00+05:30</published><updated>2025-06-28T00:00:00+05:30</updated><id>http://localhost:4000/2025/06/28/day-6</id><content type="html" xml:base="http://localhost:4000/2025/06/28/day-6.html"><![CDATA[<h1 id="️-day-6-of-summer-training">🗓️ Day 6 Of Summer Training</h1>
 
 <p>Today was the 6th day of my summer training…..</p>
 

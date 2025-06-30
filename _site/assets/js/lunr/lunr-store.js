@@ -10,4 +10,10 @@ var store = [{
         "tags": ["HTML","CSS","Web Development","JavaScript"],
         "url": "/2025/06/28/day-6.html",
         "teaser": null
+      },{
+        "title": "Day 7 of Summer Training",
+        "excerpt":"🗓️ Day 7 Of Summer Training Today was the 7th day of my summer training……… 💡 What I Learned Today Today I learned about async await although, I know about it earlier but today I revised it again thorough my project. Today I learned to play audio by a click...","categories": [],
+        "tags": ["HTML","CSS","Web Development"],
+        "url": "/2025/06/30/day-7.html",
+        "teaser": null
       }]
