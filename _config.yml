@@ -19,13 +19,13 @@ kramdown:
 highlighter: rouge
 author:
   name: "Satjeet Singh"
-  avatar: "/assets/images/avatar.png"
+  avatar: "https://avatars.githubusercontent.com/u/157718878?s=400&v=4"
   bio: "Passionate about learning tech and sharing knowledge!"
   location: "India"
   links:
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "https://github.com/yourusername"
+      url: "https://github.com/Satjeet2005"
     - label: "Twitter"
       icon: "fab fa-twitter"
       url: "https://twitter.com/yourusername"
